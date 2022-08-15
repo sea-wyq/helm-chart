@@ -11,9 +11,7 @@ body:
       Thanks for taking the time to request a feature for aiges! 
 - type: textarea
   attributes:
-    label: Is your feature request related to a problem? Please describe.
-    description: A concise description of the problem you are facing or the motivetion behind this feature request.
-    placeholder: |
-      Tell us what feature you want and we'll consider it and support it.
+    label: Tell us what feature you want?
+    description: A concise description of the problem you are facing or the motivetion behind this feature request..
   validations:
     required: true
